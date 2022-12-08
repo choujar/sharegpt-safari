@@ -8,4 +8,5 @@ A safari web extensions port of https://github.com/domeccleston/sharegpt
 * Go to Safari > Develop > and check "Allow unsigned extensions".
 * Go to Safari > Settings > Extensions and check "ShareGPT".
 
-<img width="773" alt="Screenshot 2022-12-09 at 12 22 38 am" src="https://user-images.githubusercontent.com/5535604/206463684-4ad6e678-99d7-45c1-8558-5cc2370bccaa.png">
+
+![screenshot-safari-settings](https://user-images.githubusercontent.com/5535604/206463945-617bc22f-0bf1-455b-b050-7b35d3bd9f84.jpg)
