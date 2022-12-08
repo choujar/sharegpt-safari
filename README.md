@@ -10,3 +10,8 @@ A safari web extensions port of https://github.com/domeccleston/sharegpt
 
 
 ![screenshot-safari-settings](https://user-images.githubusercontent.com/5535604/206463945-617bc22f-0bf1-455b-b050-7b35d3bd9f84.jpg)
+
+
+# Play
+
+I've included the xCode code in this repo in case you want to expand upon it - go for it!
